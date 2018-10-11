@@ -30,7 +30,7 @@ public class SectionNineCodeTest {
     }
 
     /**
-     * 建议121：
+     * 建议121：线程池的创建方式
      */
     @Test
     public void demo01() throws ExecutionException, InterruptedException {
